@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-native-paper": "3.6.0",
+    "expo-constants": "~9.1.1",
+    "firebase": "8.2.2",
+    "@firebase/firestore": "*",
+    "@firebase/app-types": "0.x.0",
+    "@firebase/app": "0.x.0"
+  }
+}
